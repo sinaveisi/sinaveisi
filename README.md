@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sina (Haba) Veisi 👋</h1>
+<h1 align="center">Hi, I'm Sina Veisi 👋</h1>
 <h3 align="center">Medical Informatics researcher building AI that reads the human heart</h3>
 
 <p align="center">

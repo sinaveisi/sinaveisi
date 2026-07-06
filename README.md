@@ -49,7 +49,3 @@ FIDE-rated chess player (~2000). Native Persian, C1 English. I've also self-host
   <a href="mailto:sina.weisy1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sinaveisi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinaveisi&show_icons=true&theme=default&hide_border=true" alt="Sina's GitHub stats" />
-</p>

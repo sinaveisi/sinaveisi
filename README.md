@@ -11,7 +11,7 @@
 
 **Medical Informatics** Specialist.
 
-I spent 7 years as a freelance Android and Wear OS developer. I know what it takes to ship an app to a phone or smartwatch—the architecture, the offline databases, the UI constraints. Today, I bring that hardcore engineering mindset to my real passion: AI that actually ships to a clinical setting.
+I spent 7 years as a freelance Android and Wear OS developer. I know what it takes to ship an app to a phone or smartwatch. Today, I bring that hardcore engineering mindset to my real passion: AI that actually ships to a clinical setting.
 
 My focus has shifted from building standard mobile apps to engineering the underlying intelligent systems that power them. I bridge the gap between clinical research and deployable software.
 

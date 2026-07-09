@@ -11,15 +11,16 @@
 
 **Medical Informatics** Specialist.
 
-I spent **7 years as a freelance Android developer**, which is why the engineering side of "AI that actually ships to a phone" matters as much to me as the modeling side.
+I spent 7 years as a freelance Android and Wear OS developer. I know what it takes to ship an app to a phone or smartwatch—the architecture, the offline databases, the UI constraints. Today, I bring that hardcore engineering mindset to my real passion: AI that actually ships to a clinical setting.
+
+My focus has shifted from building standard mobile apps to engineering the underlying intelligent systems that power them. I bridge the gap between clinical research and deployable software.
 
 ### 🧠 Research interests
 
-- Multimodal clinical data fusion (signal + image + text)
-- Explainable AI (XAI) for clinical decision support
-- Clinical NLP & LLMs in medicine
-- Digital phenotyping
-- AI for healthcare cybersecurity
+- Mobile and Wearable Health Technologies
+- Artificial Intelligence and Machine Learning for Health Systems
+- AI Engineering & Automation and Real-World AI Evaluation
+- AI for Healthcare Cybersecurity
 
 ### 🎓 Currently
 
